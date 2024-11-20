@@ -1,2 +1,3 @@
 # Tic-Tac-toe-game
-this is tic tac toe game by create by me i am just larning phases . 
+this is tic tac toe game by create by me <br>
+i am just larning phases . 
